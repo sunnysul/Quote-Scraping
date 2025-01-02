@@ -1,4 +1,4 @@
-MIT License
+Hi-Tech License
 
 Copyright (c) 2025 Hi-Tech Computer(Akluj) Institute
 
